@@ -1,4 +1,3 @@
-
 #Skeleton WordPress Theme
 
 ##About
@@ -6,6 +5,14 @@
 **Live Demo**: [http:demos.simplethemes.com/skeleton](http:demos.simplethemes.com/skeleton "Skeleton WordPress Theme Demo")
 
 **bbPress Demo**: [http://demos.simplethemes.com/skeleton/forums](http://demos.simplethemes.com/skeleton/forums "bbPress Theme Demo")
+
+**There are three branches available for this theme.**
+
+* **[standalone](https://github.com/simplethemes/skeleton_wp/tree/standalone):** Just the basic WordPress theme.
+* **[master](https://github.com/simplethemes/skeleton_wp):** Includes Jigoshop and bbPress styles
+* **[buddypress](https://github.com/simplethemes/skeleton_wp/tree/buddypress):** Basic starting point for use with BuddyPress (unsupported).
+
+
 
 Skeleton, created by Casey Lee at [Simple Themes](http://www.simplethemes.com "WordPress Themes") is a simple, responsive WordPress theme based on the Skeleton Boilerplate.
 It has several useful shortcodes, such as tabs, toggles, cross-browser CSS3 buttons, and layout columns.
@@ -25,7 +32,7 @@ This repository contains multiple items. To install this theme, download and **e
 
 You can configure its options from Appearance &rarr; Theme Options.
 
-If you want to use as Skeleton as a child theme, a base starting point with a few modifications as an example is included in the 'skeleton_childtheme' folder. To crate your own, you should start with three files:
+If you want to use as Skeleton as a child theme, a base starting point with a few modifications as an example is included in the 'skeleton_childtheme' folder. To create your own, you should start with three files:
 
 * style.css
 * functions.php
